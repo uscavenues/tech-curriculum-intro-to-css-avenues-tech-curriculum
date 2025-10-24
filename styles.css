@@ -1,0 +1,12 @@
+/* Minimal CSS starter — keep it simple */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.5; }
+
+/* task 1: base styles (headings, links) */
+/* task 2: header/nav styles */
+/* task 3: .hero layout with Flexbox */
+/* task 4: hover effect for links or a .btn */
+/* task 5: mobile breakpoint to stack .hero */
+@media (max-width: 768px) {
+  /* ex, .hero { flex-direction: column; } */
+}
